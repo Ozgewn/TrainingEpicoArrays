@@ -1,5 +1,7 @@
 package gestora;
 
+import java.util.GregorianCalendar;
+
 import clases.AfiliadoImp;
 import clases.Fecha;
 import enumerados.TypoActivity;
